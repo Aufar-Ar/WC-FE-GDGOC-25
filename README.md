@@ -12,8 +12,11 @@ This repository contains the final project for the Web Development Front-End cou
 - No dependencies on JavaScript or external frameworks
 
 ## How to Use
-Just open `index.html` in your browser.
-
-## Author
 Clone this repository:
 (https://github.com/Aufar-Ar/WC-FE-GDGOC-25.git)
+
+Or open this link:
+(https://wc-fe-gdgoc-25.vercel.app/)
+
+## Author
+Muhammad Aufar (https://github.com/Aufar-Ar)
