@@ -4,8 +4,11 @@ This repository contains the final project for the Web Development Front-End cou
 
 ## Features
 -Fully responsive design
+
 -Clean and minimalistic layout
+
 -Well-structured HTML and CSS code
+
 -No dependencies on JavaScript or external frameworks
 
 ## How to Use
