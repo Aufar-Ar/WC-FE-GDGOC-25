@@ -16,7 +16,7 @@ Clone this repository:
 (https://github.com/Aufar-Ar/WC-FE-GDGOC-25.git)
 
 Or open this link:
-(portofolio-aufar.vercel.app)
+(https://portofolio-aufar.vercel.app/)
 
 ## Author
 Muhammad Aufar (https://github.com/Aufar-Ar)
